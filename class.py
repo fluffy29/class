@@ -46,4 +46,4 @@ print(counter.value)
 for _ in range(10):
     counter.decrement()
 
-print(counter.value)  
+print(counter.value)
